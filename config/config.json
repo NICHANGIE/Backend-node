@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "nodedb",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5321
+    },
+    "test": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "nodedb",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5321
+    },
+    "production": {
+      "username": "postgres",
+      "password": "postgres",
+      "database": "nodedb",
+      "host": "localhost",
+      "dialect": "postgres",
+      "port": 5321
+    }
+  }
+  
